@@ -87,6 +87,3 @@ The dataset contains sales transaction details, including:
 
 This project demonstrates practical skills in Excel-based data analysis, business reporting, and dashboard development. It transforms raw sales data into meaningful visual insights that can help businesses monitor performance and make informed decisions.
 
----
-
-⭐ If you find this project useful, feel free to explore the repository!
